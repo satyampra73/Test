@@ -1,0 +1,10 @@
+Hello everyone, I just completed my Online training Course on "Android Development with Kotlin" conducted by #geeksforgeeks .I want to say thanks to Shridhar Goel who is the mentor of this course .Topics i learned from here-
+
+
+
+1.Introduction and Coding in #kotlin .
+
+2.OOP & Kotlin in-depth, Activity Lifecycle.
+
+3.Intents and Building Multi-Screen Apps.
+
