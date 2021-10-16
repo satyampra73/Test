@@ -6,5 +6,5 @@ Hello everyone, I just completed my Online training Course on "Android Developme
 
 3.Intents and Building Multi-Screen Apps.
 
-//my name is satyam prajapati
-
+//my name is satyam prajapati//the power
+//the second superman
